@@ -1,0 +1,30 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+div.btm{
+    position: absolute;
+    left: 19%;
+    
+}
+input.out{
+    width:148px;
+}
+input.cancel{
+    width: 60px;
+    text-align: center;
+    background:rgb(255, 0, 0);
+}
+input.clear{
+    width: 60px;
+    text-align: center;
+    background:rgb(255, 255, 0);
+}
+input.enter{
+    width: 60px;
+    text-align: center;
+    background:rgb(0, 128, 0);
+}
